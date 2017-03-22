@@ -58,6 +58,7 @@ def plotDataSet(df):
         print ("Most Popular Name")
         print (df)
         df["Births"].plot.bar()
+        plt.show()
     except Exception as e:
         print(str(e))
         return False

@@ -50,3 +50,4 @@ plt.annotate(txt, xy=(1, maxValue), xytext=(8, 0),
 
 print ("most popular name")
 print(df[df['Births'] == df['Births'].max()])
+plt.show()
