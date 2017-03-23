@@ -1,0 +1,18 @@
+
+1.Machine Learning Algorithms
+        a. Scikit-learn (this has lot more useful things)
+           URL : http://scikit-learn.org/stable/
+
+2. Visualization
+        a. Matplotlib
+           URL : http://matplotlib.org/
+        b. seaborn
+           URL : https://seaborn.pydata.org/
+
+
+3. Data Analysis
+        a. numpy
+           URL : http://www.numpy.org/
+        b. pandas
+           URL : http://pandas.pydata.org/
+

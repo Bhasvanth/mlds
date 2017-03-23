@@ -1,0 +1,4 @@
+1. Data Science Competitions
+   URL : https://www.kaggle.com/
+2. Free-Lancer Projects
+   URL : https://www.dataquest.io/

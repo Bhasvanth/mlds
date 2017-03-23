@@ -1,0 +1,11 @@
+1. URL : http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
+2. URL : http://www.dataschool.io/easier-data-analysis-with-pandas/
+3. URL : http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/
+4. URL : https://www.datacamp.com/courses/intro-to-python-for-data-science/?utm_source=learnpython_com&utm_campaign=learnpython_tutorials
+5. IBM Big Data University
+   URL :  https://bigdatauniversity.com/
+
+
+
+1. Virtual Labs
+   URL : https://datascientistworkbench.com/

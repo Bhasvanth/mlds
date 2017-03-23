@@ -1,0 +1,9 @@
+Public Datasets
+1. US Gov
+   https://www.data.gov/
+
+2. Indian Gov
+   https://data.gov.in/
+
+3. Multiple Datasets
+   https://github.com/caesar0301/awesome-public-datasets 
